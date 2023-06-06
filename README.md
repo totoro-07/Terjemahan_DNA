@@ -7,7 +7,7 @@ Menggunakan program ini, pengguna dapat menginput urutan DNA (contoh: TACGGCCCAT
 
 # Contoh Luaran
 
-<img width="346" alt="Screenshot 2023-06-06 161112" src="https://github.com/totoro-07/Terjemahan_DNA/assets/95126142/bdb69d64-976b-404f-b3b9-edaff2cd7bb9">
+<img width="366" alt="Screenshot 2023-06-06 161112" src="https://github.com/totoro-07/Terjemahan_DNA/assets/95126142/bdb69d64-976b-404f-b3b9-edaff2cd7bb9">
 
 ### Contoh Luaran Ketika Terdapat Kodon Stop
 
@@ -21,8 +21,8 @@ Program DNA Translator terdiri dari 1 kelas __DNATranslator__ dan 3 method, sala
 
 
 #### GROUP 11
-##### Ulfa Stefi Juliana	(G1A022042)
-##### Ahmad Radesta	(G1A022086)
-##### Ahmad Zul Zhafran	(G1A022088)
+### Ulfa Stefi Juliana	(G1A022042)
+### Ahmad Radesta	(G1A022086)
+### Ahmad Zul Zhafran	(G1A022088)
 
 #### INFORMATIKA B
